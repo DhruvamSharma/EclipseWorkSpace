@@ -1,0 +1,40 @@
+package com.fil.file_handling;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class ScannerStreams {
+
+	public static void main(String...args) {
+		
+		scanningFile();
+		
+	}
+	
+	public static void scanningFile() {
+		
+		Scanner scanner = null;
+		
+		try {
+			
+			scanner = new Scanner( new BufferedReader( new FileReader("original.txt") ) );
+			String line = null;
+			
+			while ( scanner.hasNext() ) {
+				System.out.println(scanner.nextLine());
+			}
+			
+		} catch ( FileNotFoundException ex ) {
+			ex.printStackTrace();
+		} catch ( IOException ex ) {
+			ex.printStackTrace();
+		} finally {
+			scanner.close();
+		}
+		
+	}
+	
+}

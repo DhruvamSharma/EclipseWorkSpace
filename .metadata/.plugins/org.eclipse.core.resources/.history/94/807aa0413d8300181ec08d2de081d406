@@ -1,0 +1,20 @@
+package com.fil.multi_threading;
+
+public class Account extends Thread {
+	
+	public void withdraw(int amount) {
+		int balance = BalanceUtils.getBalance();
+		if( balance <= amount) {
+			return;
+		}
+		else {
+			BalanceUtils.setBalance(balance - amount);
+		}
+	}
+	
+	@Override
+	public void run() {
+		withdraw(500);
+	}
+
+}

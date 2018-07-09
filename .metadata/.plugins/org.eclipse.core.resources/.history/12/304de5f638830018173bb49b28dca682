@@ -1,0 +1,12 @@
+package com.fil.multi_threading
+
+class Printer {
+	
+	fun print(msg : String) {
+		
+		System.out.print("[ $msg ]")
+		
+		
+	}
+	
+}

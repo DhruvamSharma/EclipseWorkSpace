@@ -1,0 +1,11 @@
+package com.fil.multi_threading;
+
+public class AcountDemo {
+
+	public static void main(String ... args) throws InterruptedException {
+		
+		Account account = new Account();
+		
+		
+	}
+}

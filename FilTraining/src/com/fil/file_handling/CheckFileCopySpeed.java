@@ -9,7 +9,7 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 
 public class CheckFileCopySpeed {
-	public static void main(String... args) throws IOException {
+	public static void main(String[] ... args) throws IOException {
 	    for (int mb : new int[]{50, 100, 250, 500, 1000, 2000})
 	        testFileSize(mb);
 	}

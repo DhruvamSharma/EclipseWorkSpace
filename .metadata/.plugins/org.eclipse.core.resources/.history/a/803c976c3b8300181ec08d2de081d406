@@ -1,0 +1,22 @@
+package com.fil.multi_threading;
+
+public class PrinterUser extends Thread{
+	
+	Printer printer;
+	
+	public void printData(String msg) {
+		printer.print(msg);
+	}
+	
+	@Override
+	public void run() {
+		printData("hello there is data so much so i wrote it in this way");
+	}
+
+	public PrinterUser(Printer printer) {
+		super();
+		this.printer = printer;
+	}
+	
+	
+}

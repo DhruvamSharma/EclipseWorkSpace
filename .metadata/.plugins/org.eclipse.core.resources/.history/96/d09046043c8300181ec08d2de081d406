@@ -1,0 +1,9 @@
+package com.fil.multi_threading;
+
+public class BalanceUtils {
+	
+	public static int balance = 100000;
+	
+	
+
+}

@@ -1,0 +1,18 @@
+package com.fil.multi_threading;
+
+public class Account{
+	
+	synchronized public void withdraw(int amount) {
+		int balance = BalanceUtils.getBalance();
+		if( balance <= amount) {
+			return;
+		}
+		else {
+			BalanceUtils.setBalance(balance - amount);
+		}
+	}
+	
+	
+
+	
+}

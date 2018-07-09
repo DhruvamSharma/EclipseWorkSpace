@@ -1,0 +1,14 @@
+package com.fil.multi_threading;
+
+public class PrinterUser {
+	
+	Printer printer;
+	
+	public void printData(String msg) {
+		printer.print(msg);
+	}
+	
+	
+	
+
+}

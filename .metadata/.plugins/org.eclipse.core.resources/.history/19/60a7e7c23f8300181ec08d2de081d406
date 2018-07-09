@@ -1,0 +1,16 @@
+package com.fil.multi_threading;
+
+public class AcountDemo {
+
+	public static void main(String ... args) throws InterruptedException {
+		
+		Account account = new Account();
+		
+		account1.start();
+		account2.start();
+		
+		account1.join();
+		account2.join();
+		
+	}
+}

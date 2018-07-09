@@ -1,0 +1,29 @@
+package com.fil.multi_threading;
+
+public class ThreadExploiting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Long start = System.currentTimeMillis();
+
+		ReadingFile file = new ReadingFile();
+		file.start();
+		
+		ReadingFile file1 = new ReadingFile();
+		file1.start();
+		
+		try {
+			file.join();
+			file1.join();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		Long end = System.currentTimeMillis();
+		System.out.println();
+		
+	}
+
+}

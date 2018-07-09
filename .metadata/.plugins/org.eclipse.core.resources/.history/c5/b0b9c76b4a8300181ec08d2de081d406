@@ -1,0 +1,12 @@
+package com.fil.multi_threading;
+
+public class ThreadExploiting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ReadingFile
+		
+	}
+
+}

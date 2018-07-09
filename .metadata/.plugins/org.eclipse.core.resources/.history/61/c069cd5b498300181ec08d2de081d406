@@ -1,0 +1,30 @@
+package com.fil.multi_threading;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
+public class ReadingFile extends Thread{
+	
+	@Override
+	public void run() {
+		
+		readAndCopyData();
+		
+	}
+
+	private void readAndCopyData() {
+		// TODO Auto-generated method stub
+		
+		try {
+			FileReader reader = new FileReader("original.txt");
+			
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+	
+
+}

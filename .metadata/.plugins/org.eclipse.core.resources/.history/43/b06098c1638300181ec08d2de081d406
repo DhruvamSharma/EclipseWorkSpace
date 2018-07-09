@@ -1,0 +1,30 @@
+package com.fil.multi_threading;
+
+import java.util.List;
+
+public class Playlist {
+	
+	List<String> songs;
+	private boolean  = 
+	
+	public Playlist(List<String> songs) {
+		super();
+		this.songs = songs;
+	}
+
+	synchronized public String readSong() {
+		
+		return "";
+		
+	}
+	
+	public void addSong(String args) {
+		
+		
+		
+	}
+	
+	
+	
+
+}

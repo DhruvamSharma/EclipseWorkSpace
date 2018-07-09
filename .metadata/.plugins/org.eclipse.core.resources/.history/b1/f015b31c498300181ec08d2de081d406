@@ -1,0 +1,10 @@
+package com.fil.multi_threading;
+
+public class ReadingFile extends Thread{
+	
+	@Override
+	public void run() {
+		
+	}
+
+}

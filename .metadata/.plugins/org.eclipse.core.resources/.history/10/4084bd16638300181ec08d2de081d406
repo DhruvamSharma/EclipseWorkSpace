@@ -1,0 +1,13 @@
+package com.fil.multi_threading;
+
+public class Playlist {
+	
+	public  readSong() {
+		
+	}
+	
+	public void addSong() {
+		
+	}
+
+}

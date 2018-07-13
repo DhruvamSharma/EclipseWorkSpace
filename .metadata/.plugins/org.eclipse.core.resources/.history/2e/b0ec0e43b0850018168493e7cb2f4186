@@ -1,0 +1,29 @@
+package com.fil.dao;
+
+import java.sql.Date;
+import java.text.SimpleDateFormat;
+
+import com.fil.dao.database.dao.SupplyDAO;
+import com.fil.dao.database.daoImp.SupplyDAOImpl;
+import com.fil.dao.database.entity.SupplyEntity;
+
+public class JDBCDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		SupplyDAO dao = new SupplyDAOImpl();
+		Date date = parseDate("2018-12-22"); 
+		SupplyEntity entitiy = new SupplyEntity(10, 3, 4, 2343, 20181222);
+		System.out.println(dao.getAllSupplyList().toString());
+	}
+	
+	public static Date parseDate(String date) {
+	     try {
+	         return new SimpleDateFormat("yyyy-MM-dd").parse(date);
+	     } catch (ParseException e) {
+	         return null;
+	     }
+	  }
+
+}

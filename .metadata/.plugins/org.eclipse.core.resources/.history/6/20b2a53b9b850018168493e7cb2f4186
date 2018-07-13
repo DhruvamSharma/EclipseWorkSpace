@@ -1,0 +1,14 @@
+package com.fil.dao.database.entity;
+
+import java.sql.Date;
+
+public class SupplyEntity {
+
+	private int sid;
+	private int supply_id;
+	private int pid;
+	private int qty;
+	private Date date;
+	
+	
+}

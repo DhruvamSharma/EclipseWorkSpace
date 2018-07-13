@@ -1,0 +1,24 @@
+package com.fil.dao.database;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class DBConnection {
+	
+	private static Connection connection;
+	private static final String URL = "jdbc:mysql://localhost:3306";
+	
+	DBConnection() {
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			connection = DriverManager.getConnection(URL, "root", "chalorebels");
+		}
+	}
+	
+	public static Connection getDBConnection() {
+		if(connection == null) {
+			new DBConnection();
+		}
+	}
+
+}

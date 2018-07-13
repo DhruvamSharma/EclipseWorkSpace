@@ -1,0 +1,7 @@
+package com.fil.dao.database.dao;
+
+public interface SupplyDAO {
+
+	Lis
+	
+}

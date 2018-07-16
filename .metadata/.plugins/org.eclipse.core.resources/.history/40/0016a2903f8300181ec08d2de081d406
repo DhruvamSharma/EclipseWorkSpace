@@ -1,7 +1,0 @@
-package com.fil.multi_threading;
-
-public class AccountUser extends Thread{
-
-	
-	
-}

@@ -1,9 +1,0 @@
-package com.fil.multi_threading;
-
-public class Account {
-	
-	public void withdraw() {
-		
-	}
-
-}

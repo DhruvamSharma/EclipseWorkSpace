@@ -1,9 +1,0 @@
-package com.fil.dao.database.entity;
-
-public class SupplyEntity {
-
-	private int sid;
-	private int supply_id;
-	private int pid;
-	
-}

@@ -1,7 +1,0 @@
-package com.fil.dao.database.dao;
-
-public interface SupplyDAO {
-
-	List<SupplyEntity> getAllSuppl
-	
-}

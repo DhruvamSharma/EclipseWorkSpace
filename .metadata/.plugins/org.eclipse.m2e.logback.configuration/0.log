@@ -8178,3 +8178,710 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet
 2018-07-23 11:00:51,295 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
 2018-07-23 11:00:51,297 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-07-23 11:00:51,298 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:04:25,918 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:04:25,918 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:04:25,920 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:04:25,921 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:06:34,592 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:34,592 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:06:34,594 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:34,594 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:06:39,491 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:39,492 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:06:39,493 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:39,493 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:06:41,711 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:41,711 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:06:41,714 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:41,715 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:06:48,234 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:48,234 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:06:48,243 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:48,244 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:06:49,722 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-23 11:06:49,728 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-23 11:06:49,730 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-23 11:06:49,731 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/SpringMVC/src/test/resources
+2018-07-23 11:06:55,799 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:55,799 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:06:55,801 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:06:55,801 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:07:00,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:00,861 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:07:00,863 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:00,864 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:07:08,768 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:08,768 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:07:08,771 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:08,771 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:07:11,150 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:11,150 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:07:11,152 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:11,152 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:07:36,504 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:36,507 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:07:36,509 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:36,510 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:07:42,289 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:42,289 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:07:42,293 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:42,293 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:07:48,950 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:48,950 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:07:48,951 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:07:48,952 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:08:17,872 [Worker-29: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 11:08:17,942 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:17,942 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:08:17,943 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:17,944 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:08:19,149 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:19,149 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:08:19,151 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:19,151 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:08:21,879 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 11:08:21,926 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:21,926 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:08:21,927 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:21,928 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:08:23,089 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:23,089 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:08:23,091 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:23,091 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:08:33,405 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:33,407 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:08:33,409 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:33,410 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:08:54,410 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:54,411 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:08:54,413 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:08:54,413 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:09:03,183 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:03,183 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:09:03,186 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:03,186 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:09:25,783 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:25,783 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:09:25,785 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:25,785 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:09:27,844 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:27,844 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:09:27,845 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:27,845 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:09:28,989 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:28,989 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:09:28,990 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:28,990 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:09:58,283 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:58,283 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:09:58,284 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:09:58,285 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:10:42,556 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:10:42,557 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:10:42,558 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:10:42,559 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:10:48,993 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:10:48,993 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:10:48,995 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:10:48,995 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:10:52,802 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:10:52,803 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:10:52,804 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:10:52,804 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:05,290 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:05,292 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:05,294 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:05,294 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:07,799 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:07,799 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:07,800 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:07,801 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:34,593 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:34,593 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:34,594 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:34,595 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:37,424 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:37,424 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:37,425 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:37,425 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:39,124 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:39,124 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:39,126 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:39,127 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:43,412 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:43,412 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:43,413 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:43,414 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:46,733 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:46,733 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:46,734 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:46,735 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:11:51,768 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:51,769 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:11:51,770 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:11:51,771 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:05,813 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:05,813 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:05,815 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:05,815 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:11,526 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:11,527 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:11,528 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:11,528 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:13,512 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:13,512 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:13,514 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:13,515 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:19,340 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:19,340 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:19,342 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:19,342 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:26,672 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:26,674 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:26,675 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:26,676 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:33,011 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:33,013 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:33,014 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:33,015 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:35,864 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:35,864 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:35,865 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:35,866 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:12:38,235 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:38,235 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:12:38,237 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:12:38,237 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:13:55,656 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:13:55,658 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:13:55,660 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:13:55,660 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:04,244 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:04,244 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:04,246 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:04,246 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:06,420 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:06,420 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:06,421 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:06,421 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:09,338 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:09,338 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:09,339 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:09,339 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:15,419 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:15,419 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:15,421 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:15,421 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:18,602 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:18,603 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:18,605 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:18,605 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:25,116 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:25,116 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:25,118 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:25,119 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:35,150 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:35,151 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:35,153 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:35,153 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:37,462 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:37,462 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:37,464 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:37,464 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:40,576 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:40,577 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:40,578 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:40,578 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:44,802 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:44,803 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:44,804 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:44,804 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:47,532 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:47,532 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:47,534 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:47,534 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:14:49,436 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:49,436 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:14:49,437 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:14:49,437 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:01,321 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:01,321 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:01,323 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:01,323 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:06,244 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:06,245 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:06,246 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:06,247 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:08,920 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:08,921 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:08,922 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:08,922 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:16,381 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:16,382 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:16,384 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:16,384 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:30,908 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:30,909 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:30,910 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:30,910 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:33,006 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:33,007 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:33,009 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:33,009 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:37,202 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:37,203 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:37,207 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:37,207 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:15:54,728 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:54,729 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:15:54,730 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:15:54,730 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:16:32,449 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:16:32,450 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:16:32,451 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:16:32,451 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:16:57,082 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:16:57,083 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:16:57,084 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:16:57,084 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:05,616 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:05,617 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:05,618 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:05,618 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:12,169 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:12,169 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:12,170 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:12,170 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:16,362 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:16,363 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:16,364 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:16,365 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:18,072 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:18,072 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:18,073 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:18,073 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:22,247 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:22,247 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:22,248 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:22,248 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:26,399 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:26,399 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:26,400 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:26,400 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:30,036 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:30,037 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:30,038 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:30,038 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:33,218 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:33,218 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:33,219 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:33,219 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:17:47,812 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:47,812 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:17:47,814 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:17:47,814 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:18:09,171 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:09,171 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:18:09,172 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:09,172 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:18:15,281 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:15,281 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:18:15,283 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:15,283 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:18:16,815 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:16,815 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:18:16,816 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:16,816 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:18:25,566 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:25,568 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:18:25,569 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:25,569 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:18:42,133 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:42,134 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:18:42,135 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:42,135 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:18:53,675 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:53,675 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:18:53,676 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:18:53,676 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:19:02,320 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:19:02,321 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:19:02,323 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:19:02,323 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:21:30,166 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:30,167 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:21:30,168 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:30,168 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:21:33,021 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:33,021 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:21:33,023 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:33,023 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:21:36,892 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:36,892 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:21:36,893 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:36,894 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:21:47,147 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:47,147 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:21:47,148 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:47,148 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:21:55,569 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:55,570 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:21:55,571 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:21:55,572 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:22:10,048 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:10,050 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:22:10,051 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:10,051 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:22:12,171 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:12,171 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:22:12,172 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:12,172 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:22:21,514 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:21,515 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:22:21,516 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:21,516 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:22:25,674 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:25,674 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:22:25,675 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:25,675 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:22:27,218 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:27,219 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:22:27,220 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:27,220 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:22:32,459 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:32,459 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:22:32,461 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:22:32,461 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:26:34,217 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:26:34,218 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:26:34,219 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:26:34,220 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:27:36,552 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:27:36,553 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:27:36,554 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:27:36,555 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:33:44,124 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:33:44,125 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:33:44,127 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:33:44,127 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:34:32,872 [Worker-48: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 11:34:35,285 [Worker-48: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4/junit-4.pom
+2018-07-23 11:34:35,287 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for junit:junit:jar:4 is missing, no dependency information available
+2018-07-23 11:34:35,642 [Worker-48: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4/junit-4.jar
+2018-07-23 11:34:35,702 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:34:35,703 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:34:35,704 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:34:35,704 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:34:36,708 [Worker-48: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for junit:junit:jar:4 is missing, no dependency information available
+2018-07-23 11:34:37,433 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4/junit-4-sources.jar
+2018-07-23 11:34:37,451 [Worker-48: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for junit:junit:4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:jar:sources:4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-07-23 11:34:45,760 [Worker-45: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 11:34:46,422 [Worker-45: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.0.0/junit-4.0.0.pom
+2018-07-23 11:34:46,423 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for junit:junit:jar:4.0.0 is missing, no dependency information available
+2018-07-23 11:34:46,765 [Worker-45: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.0.0/junit-4.0.0.jar
+2018-07-23 11:34:46,820 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:34:46,820 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:34:46,821 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:34:46,821 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:34:47,830 [Worker-46: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for junit:junit:jar:4.0.0 is missing, no dependency information available
+2018-07-23 11:34:48,585 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.0.0/junit-4.0.0-sources.jar
+2018-07-23 11:34:48,588 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for junit:junit:4.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:jar:sources:4.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-07-23 11:35:39,695 [Worker-48: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 11:35:40,718 [Worker-48: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.pom
+2018-07-23 11:35:41,088 [Worker-48: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.pom
+2018-07-23 11:35:41,257 [Worker-48: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.jar
+2018-07-23 11:35:41,968 [Worker-48: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4.jar
+2018-07-23 11:35:42,022 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:35:42,022 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:35:42,023 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:35:42,023 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:35:42,237 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:35:42,237 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:35:42,238 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:35:42,238 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:35:44,243 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4-sources.jar
+2018-07-23 11:35:45,372 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.4/junit-4.4-sources.jar
+2018-07-23 11:35:45,391 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.4
+2018-07-23 11:35:45,553 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:35:45,553 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:35:45,554 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:35:45,554 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:42:54,707 [Worker-51: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 11:42:54,756 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:42:54,757 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:42:54,757 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:42:54,758 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:42:55,981 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:42:55,982 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:42:55,983 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:42:55,983 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:43:45,007 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:43:45,007 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:43:45,008 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:43:45,008 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:43:59,806 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:43:59,807 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:43:59,808 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:43:59,809 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:44:07,436 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:07,436 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:44:07,437 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:07,437 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:44:09,341 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:09,341 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:44:09,343 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:09,343 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:44:31,999 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:31,999 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:44:32,000 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:32,000 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:44:33,645 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:33,646 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:44:33,646 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:33,647 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:44:34,920 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:34,921 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:44:34,922 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:34,922 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:44:57,402 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:57,403 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:44:57,405 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:44:57,405 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:45:45,956 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:45:45,956 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:45:45,957 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:45:45,957 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:45:50,147 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:45:50,148 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:45:50,149 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:45:50,149 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:45:51,454 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:45:51,454 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:45:51,454 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:45:51,455 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:46:03,981 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:03,981 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:46:03,982 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:03,983 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:46:08,753 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:08,754 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:46:08,755 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:08,756 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:46:12,304 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:12,304 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:46:12,306 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:12,306 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:46:22,900 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:22,900 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:46:22,901 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:22,901 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:46:48,837 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:48,837 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:46:48,838 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:46:48,838 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:47:16,072 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:47:16,073 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:47:16,074 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:47:16,074 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:47:23,069 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:47:23,069 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:47:23,070 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:47:23,071 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:49:43,169 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:49:43,169 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:49:43,171 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:49:43,171 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:49:53,566 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:49:53,567 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:49:53,568 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:49:53,568 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:49:59,629 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:49:59,629 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:49:59,630 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:49:59,631 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:50:28,528 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:28,528 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:50:28,529 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:28,529 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:50:29,790 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:29,791 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:50:29,791 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:29,791 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:50:33,984 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:33,984 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:50:33,985 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:33,985 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:50:52,519 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:52,519 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:50:52,522 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:52,522 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:50:55,191 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:55,191 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:50:55,192 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:50:55,192 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:03,209 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:03,209 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:03,210 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:03,210 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:16,826 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:16,826 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:16,827 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:16,828 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:21,746 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:21,746 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:21,747 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:21,747 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:24,205 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:24,205 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:24,207 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:24,207 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:47,389 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:47,389 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:47,391 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:47,391 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:49,609 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:49,609 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:49,611 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:49,611 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:53,633 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:53,633 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:53,634 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:53,634 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:55,766 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:55,766 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:55,767 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:55,767 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:51:57,215 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:57,215 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:51:57,216 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:51:57,216 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:52:02,203 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:52:02,203 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:52:02,205 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:52:02,205 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 11:52:07,526 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:52:07,527 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 11:52:07,527 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 11:52:07,528 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:16:55,064 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:16:55,065 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:16:55,066 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:16:55,067 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:10,421 [Worker-57: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 12:17:10,478 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:10,479 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:10,480 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:10,480 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:11,622 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:11,622 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:11,624 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:11,624 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:12,842 [Worker-57: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.junit:JUnitTesting:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/pom.xml.
+2018-07-23 12:17:15,025 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2018-07-23 12:17:15,641 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2018-07-23 12:17:15,943 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2018-07-23 12:17:16,255 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2018-07-23 12:17:16,569 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2018-07-23 12:17:16,867 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2018-07-23 12:17:17,175 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2018-07-23 12:17:18,746 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2018-07-23 12:17:18,947 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2018-07-23 12:17:19,216 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2018-07-23 12:17:19,286 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:19,287 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:19,287 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:19,287 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:20,415 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:20,416 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:20,416 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:20,417 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:21,147 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2018-07-23 12:17:22,005 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2018-07-23 12:17:22,026 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2018-07-23 12:17:22,192 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2018-07-23 12:17:22,362 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2018-07-23 12:17:22,384 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2018-07-23 12:17:22,543 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:22,543 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:22,544 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:22,544 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:41,796 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:41,797 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:41,799 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:41,800 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:51,256 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:51,256 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:51,257 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:51,257 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:52,288 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:52,289 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:52,289 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:52,289 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:55,152 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:55,152 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:55,153 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:55,154 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:57,184 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:57,184 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:57,185 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:57,186 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:17:59,100 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:59,100 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:17:59,101 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:17:59,102 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:18:00,126 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:00,126 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:18:00,127 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:00,127 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:18:07,948 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:07,948 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:18:07,949 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:07,950 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:18:10,651 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:10,651 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:18:10,652 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:10,652 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-23 12:18:32,373 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:32,374 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-23 12:18:32,375 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-23 12:18:32,375 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources

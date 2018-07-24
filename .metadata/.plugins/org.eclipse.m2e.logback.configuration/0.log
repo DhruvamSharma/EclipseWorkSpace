@@ -8885,3 +8885,17 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2018-07-23 12:18:32,374 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
 2018-07-23 12:18:32,375 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-07-23 12:18:32,375 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-24 09:00:53,658 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-24 09:00:57,363 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-24 09:00:57,367 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/main/resources
+2018-07-24 09:00:57,371 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-24 09:00:57,371 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/JUnitTesting/src/test/resources
+2018-07-24 09:03:27,011 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/dhruvamsharma/eclipse-workspace/SpringBootStarted/pom.xml
+2018-07-24 09:03:28,598 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fil.springboot:SpringBootStarted:0.0.1-SNAPSHOT @ /Users/dhruvamsharma/eclipse-workspace/SpringBootStarted/pom.xml.
+2018-07-24 09:03:29,168 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootStarted/src/main/java
+2018-07-24 09:03:29,179 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootStarted/src/test/java
+2018-07-24 09:03:29,297 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-07-24 09:03:29,982 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-24 09:03:29,982 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/SpringBootStarted/src/main/resources
+2018-07-24 09:03:29,984 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-24 09:03:29,984 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/dhruvamsharma/eclipse-workspace/SpringBootStarted/src/test/resources
